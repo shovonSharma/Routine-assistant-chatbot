@@ -1,6 +1,8 @@
 # KUET CSE Routine Assistant
 
-A chat assistant that answers questions about the CSE department's 4th Year 1st Term class routine — including "tricky" questions like study hours, lab counts, and weekly rotations — by combining a tiny local LLM with a deterministic knowledge base, deployed as a free API on Render.
+A chat assistant that answers questions about the CSE department's 4th Year 1st Term class routine — including "tricky" questions like study hours, lab counts, and weekly rotations — by combining a tiny local LLM with a deterministic knowledge base, deployed as a free API on Render. Chat with it here :
+
+### https://shovonsharma.github.io/Routine-assistant-chatbot/
 
 ![Routine](https://github.com/shovonSharma/Routine-assistant-chatbot/blob/main/routine.jpg)
 
